@@ -5,7 +5,7 @@ import com.zh.model.User;
 import java.util.List;
 
 public interface UserDao {
-//asdasdsa
+
      User login(User user);
 
      List<User> findAll();
